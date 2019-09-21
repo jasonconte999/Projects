@@ -1,2 +1,5 @@
-I have developed 2 projects, both included as executable jars.
-The other text documents are used for memory purposes for Pacman.jar
+How to run Guy.jar
+1. Install Java Runtime Environment
+2. Run Guy.jar with Java
+3. If game is too zoomed in, adjust screen resolution settings. 3000x2000 on 150% scaling works
+4. If game opens with white screen that lasts longer than 20 seconds, try relaunching, or adjusting resolution settings

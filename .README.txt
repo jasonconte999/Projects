@@ -1,5 +1,13 @@
+Make sure Java Runtime Environment is installed
 How to run Guy.jar
-1. Install Java Runtime Environment
-2. Run Guy.jar with Java
-3. If game is too zoomed in, adjust screen resolution settings. 3000x2000 on 150% scaling works
-4. If game opens with white screen that lasts longer than 20 seconds, try relaunching, or adjusting resolution settings
+1. Run Guy.jar with Java
+2. If game is too zoomed in, adjust screen resolution settings. 3000x2000 on 150% scaling works
+3. If game opens with white screen that lasts longer than 20 seconds, try relaunching, or adjusting resolution settings
+
+How to run Pacman.jar
+1. Make sure the three provided text files are unmodified, in the same directory as Pacman.jar
+2. Run Pacman.jar with Java
+3. Controls:
+  WASD (may not work during first 5-10 seconds of each level)
+  Enter: select
+  Backspace: go back to previous screen
